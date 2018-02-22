@@ -68,7 +68,7 @@ hunter_add_version(
     URL
     "https://github.com/Mystfit/czmq/archive/v4.1.0-hunter.tar.gz"
     SHA1
-    2ca943a2e3d83b53d338301c7f6e48f8adc78ca9
+    5605b2a18eb851ed920996f62547c0f55f1a18d7
 )
 
 hunter_pick_scheme(DEFAULT url_sha1_cmake)
