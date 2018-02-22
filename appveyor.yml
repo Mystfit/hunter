@@ -27,6 +27,9 @@ environment:
     - TOOLCHAIN: "vs-14-2015"
       PROJECT_DIR: examples\czmq
 
+    - TOOLCHAIN: "vs-15-2017"
+      PROJECT_DIR: examples\czmq
+
     - TOOLCHAIN: "mingw"
       PROJECT_DIR: examples\czmq
 
